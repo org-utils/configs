@@ -1,5 +1,5 @@
 {
-  "name": "@dev_anwar/configs",
+  "name": "@dev_config/configs",
   "version": "0.0.1",
   "description": "Shared TypeScript and Prettier configurations for React, Node, and Next.js projects",
   "keywords": [
