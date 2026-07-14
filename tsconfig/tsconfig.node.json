@@ -48,7 +48,7 @@
       "@models/*": ["./src/models/*"]
     },
 
-    "incremental": true,
+    "incremental": false,
     // "tsBuildInfoFile": ".tsbuildinfo",
     "resolveJsonModule": true,
     "isolatedModules": true
