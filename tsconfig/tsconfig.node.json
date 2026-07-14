@@ -49,7 +49,7 @@
     },
 
     "incremental": true,
-    "tsBuildInfoFile": ".tsbuildinfo",
+    // "tsBuildInfoFile": ".tsbuildinfo",
     "resolveJsonModule": true,
     "isolatedModules": true
   }
